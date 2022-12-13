@@ -8,3 +8,16 @@
     font-weight: bold;
     height: 50px;
 }
+
+.secondary-button {
+    background-color: var(--white);
+    border-radius: 8px;
+    border: 1px solid var(--hospital-green);
+    color: var(--hospital-green);
+    width: 100;
+    cursor: pointer;
+    font-size: var(--md);
+    font-weight: bold;
+    height: 50px;
+    margin: 100px 0px 0px 0px;
+}
